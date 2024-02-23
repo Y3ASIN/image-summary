@@ -1,9 +1,9 @@
-import Form from "./ui/Form";
+import ImageToSummary from "./ui/ImageToSummary";
 
 function App() {
   return (
     <div>
-      <Form />
+      <ImageToSummary />
       {/* <Image /> */}
     </div>
   );
